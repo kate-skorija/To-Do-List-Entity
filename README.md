@@ -29,4 +29,4 @@ If there are any issues or questions, please reach out to me through [my GitHub 
 
 *This project uses the following license: [MIT](https://opensource.org/licenses/MIT)*
 
-Copyright (c) 2020 **_Kate Skorija, Brittany Lindgren, & Deryck Jackson_** 
+Copyright (c) 2020 **_Kate Skorija, Mariel Hamson, & Noel Kirkland_** 
